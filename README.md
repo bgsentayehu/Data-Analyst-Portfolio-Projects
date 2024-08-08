@@ -1,1 +1,1 @@
-Welcome! This repo is a showcase of my data analysis projects using SQL, Excel, Tableau, Power BI, and Python.
+Welcome! This repo is a showcase of my data analysis projects using PSQL, Python, Excel, Tableau, and PowerBI
